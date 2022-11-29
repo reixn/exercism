@@ -1,0 +1,35 @@
+{
+  "blurb": "Convert a long phrase to its acronym.",
+  "authors": [
+    "lpalma"
+  ],
+  "contributors": [
+    "alanvardy",
+    "iHiD",
+    "marionebl",
+    "navossoc",
+    "petertseng",
+    "ppartarr",
+    "rbasso",
+    "sharno",
+    "sshine",
+    "tejasbubane"
+  ],
+  "files": {
+    "solution": [
+      "src/Acronym.hs",
+      "package.yaml"
+    ],
+    "test": [
+      "test/Tests.hs"
+    ],
+    "example": [
+      ".meta/examples/success-standard/src/Acronym.hs"
+    ],
+    "invalidator": [
+      "stack.yaml"
+    ]
+  },
+  "source": "Julien Vanier",
+  "source_url": "https://github.com/monkbroc"
+}
